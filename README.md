@@ -5,6 +5,10 @@ Heroku PWA is an example of a Progressive Web App (PWA) on Heroku. It is created
 
 You can check out a live version at [Heroku](https://demo-pwa-app.herokuapp.com).
 
+*Proceed with the Heroku Button-based deploy*
+
+[![Heroku Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/herokumx/pwa)
+
 ## Features
 
 * Blueprint oriented, Flask 1.0 project
