@@ -1,7 +1,7 @@
 # Heroku PWA
 > A Heroku Progressive Web App template.
 
-Heroku PWA is an example of a Progressive Web App (PWA) on Heroku. It is created in Flash using a Model-Template-Controller design and is a simple template for Heroku PWA projects.
+Heroku PWA is an example of a Progressive Web App (PWA) on Heroku. It is created in Flask using a Model-Template-Controller design and is a simple template for Heroku PWA projects.
 
 You can check out a live version at [Heroku](https://demo-pwa-app.herokuapp.com).
 
