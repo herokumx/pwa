@@ -2,7 +2,7 @@
   "name": "Heroku Progressive Web App Demo",
   "description": "A simple demo illustrating a Progressive Web App (PWA) on Heroku",
   "website": "www.heroku.com",
-  "logo": "https://s3.amazonaws.com/bucketeer-5e9d2f42-1039-486c-a74b-5eb4b8e724f1/HerokuIcon.png",
+  "logo": "https://s3.amazonaws.com/bucketeer-5e9d2f42-1039-486c-a74b-5eb4b8e724f1/ReferralsApp.png",
   "keywords": ["heroku", "progressive web app"],
   "repository": "https://github.com/herokumx/pwa",
 }
